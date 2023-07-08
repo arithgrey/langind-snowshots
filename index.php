@@ -177,8 +177,8 @@
                                     alt="" data-slide-to="4" data-bs-slide-to="4">
                             </div>
                             <div class="text-wrapper">
-                                <h3 class="mbr-title mbr-fonts-style mb-2 display-5 text-uppercase">taquisas</h3>
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="taquisas.php">Ver 
+                                <h3 class="mbr-title mbr-fonts-style mb-2 display-5 text-uppercase">taquizas</h3>
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="taquizas.php">Ver 
                                         Más<span class="effectHover"></span></a>
                                 </div>
                             </div>
