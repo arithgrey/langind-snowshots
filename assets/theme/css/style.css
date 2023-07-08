@@ -284,6 +284,8 @@ iframe {
     align-items: center;
     justify-content: center;
     word-break: break-word
+    
+    
 }
 
 .btn-sm {
@@ -889,6 +891,7 @@ form .btn {
 .custom-bg{
     background: #cf843d;
 }
+
 .mbr-overlay {
     background-color: #000;
     bottom: 0;
