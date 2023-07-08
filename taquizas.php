@@ -91,7 +91,7 @@
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
                     <h5 class="lin mbr-fonts-style align-center display-5 text-uppercase">
-                        Taquisas Snowshots
+                        Taquizas Snowshots
                     </h5>
                     <div class="lin mbr-fonts-style align-center  text-uppercase">
                         Cotiza tu evento!
