@@ -1,16 +1,12 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <link rel="shortcut icon" href="assets/images/logo.png" type="image/x-icon">
     <meta name="description" content="SNOWSHOTS">
-
-
+    
     <title>Snowshots Carrito de shots, Barra libre, Mesa de cocteles, Mesa de carnes frías</title>
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons/mobirise-icons.css">
     <link rel="stylesheet" href="assets/web/assets/mobirise-icons2/mobirise2.css">
@@ -220,8 +216,8 @@
                             </div>
                             <div class="text-wrapper">
                                 <h3 class="mbr-title mbr-fonts-style mb-2 display-5 text-uppercase">taquisas</h3>
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="#">Learn
-                                        more<span class="effectHover"></span></a>
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="taquisas.php">Ver 
+                                        Más<span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
