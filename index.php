@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-grid.min.css">
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap-reboot.min.css">
     <link rel="stylesheet" href="assets/dropdown/css/style.css">
-    <link rel="stylesheet" href="assets/theme/css/style.css?v=01">
+    <link rel="stylesheet" href="assets/theme/css/style.css?v=08">
     <link rel="preload"
         href="https://fonts.googleapis.com/css?family=Cormorant+Garamond:300,300i,400,400i,500,500i,600,600i,700,700i&display=swap"
         as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -88,96 +88,58 @@
     <section data-bs-version="5.1" class="menu menu2 cid-sMzMR0CkOY" once="menu" id="menu2-0">
         <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
-
                 <div class="brand-container">
                     <div class="navbar-brand">
                         <span class="navbar-caption-wrap">
                             <a class="navbar-caption text-white text-primary display-2"
-                                href="index.html#top">SNOWSHOTS</a>
-                        </span>
-                        <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="#">(55) 3037-1662
+                                href="index.php#top">SNOWSHOTS</a>
+                        </span>                        
+                        <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" 
+                        href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web"
+                        target="_blank"
+                        >(55) 3037-1662
                                 <span class="effectHover"></span></a>
                         </div>
-
                     </div>
                 </div>
             </div>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-bs-toggle="collapse"
-                data-target="#navbarSupportedContent" data-bs-target="#navbarSupportedContent"
-                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                <div class="hamburger">
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                    <span></span>
-                </div>
-            </button>
+            
         </nav>
     </section>
 
-    <section data-bs-version="5.1" class="slider5 cid-sNBLwKVrvT">
-
-
-
+    <section data-bs-version="5.1" class=" cid-sNBLwKVrvT">
         <div class="container-fluid">
             <div class="carousel slide" id="sOfLSe9R3d" data-ride="carousel" data-bs-ride="carousel"
                 data-interval="3000" data-bs-interval="3000">
                 <div class="carousel-inner">
                     <div class="carousel-item slider-image item active">
                         <div class="item-wrapper">
-                            <div class="mbr-overlay">
+                            <div class="mbr-overlays">
                             </div>
                             <img class="d-block w-100"
                                 src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/348251787_726720459199699_9203070039643782696_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHLHeV3SGLLA3ukIXUO68b7iGIvsSTy0RCIYi-xJPLREHJdgB6VgXFYsP5z5cowh1c&_nc_ohc=VWVYaMhQ3jwAX8YrqgJ&_nc_ht=scontent.fmex1-1.fna&oh=00_AfBRZdCKM_wbVYZATL33oV3eMoRIlGBgO_DgbP3oamfG-A&oe=64ACC6EA">
 
 
-                            <div class="carousel-caption justify-content-center">
-                                <div class="row justify-content-center w-100">
-                                    <div class="col-12 col-md-7 wrap">
-                                        <h1 class="mbr-section-title mbr-fonts-style mbr-white w-100 display-1">Carrito
-                                            de shots, Barra libre, Mesa de cocteles, Mesa de carnes frías ...
-                                        </h1>
-                                    </div>
-
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="carousel-item slider-image item">
                         <div class="item-wrapper">
-                            <div class="mbr-overlay">
+                            <div class="mbr-overlays">
                             </div>
                             <img class="d-block w-100"
                                 src="https://scontent.fmex1-4.fna.fbcdn.net/v/t39.30808-6/345936760_1134773867464796_2862321062869580482_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEIMCOW_YcffmZ3uMAMTTYz_510DNhhUHz_nXQM2GFQfD02yJta07IiEoLrpUJ24tU&_nc_ohc=U9uge7l1sZ4AX_6QAJh&_nc_ht=scontent.fmex1-4.fna&oh=00_AfCgEQzddPIptDliPAO67g_l7A2pSSUDS8QPgU_nRryOoQ&oe=64ADAFD5">
-                            <div class="carousel-caption justify-content-center">
-                                <div class="row justify-content-center w-100">
-                                    <div class="col-12 col-md-7 wrap">
-                                        <h1 class="mbr-section-title mbr-fonts-style mbr-white w-100 display-1">Lorem
-                                            Ipsum is simply dummy text of the printing and typesetting</h1>
-                                    </div>
-
-                                </div>
-                            </div>
+                            
                         </div>
                     </div>
                     <div class="carousel-item slider-image item">
                         <div class="item-wrapper">
-                            <div class="mbr-overlay">
+                            <div class="mbr-overlays">
                             </div>
-
 
                             <img class="d-block w-100"
                                 src="https://scontent.fmex1-5.fna.fbcdn.net/v/t39.30808-6/352196835_1515713215831032_1144051328833149319_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHTl-WuZSpujZHJxg67zrqRpm1KDtnm6QqmbUoO2ebpCq90tSrfiF-Iu3NHPzBKhME&_nc_ohc=Nb4g5aWxOcoAX9OA41Y&_nc_ht=scontent.fmex1-5.fna&oh=00_AfBtCt4my-Lw9Acvk-zFBFNe_S3wk-FBWhUXy9ORQLy9aA&oe=64ACB069">
-
-                            <div class="carousel-caption justify-content-center">
-                                <div class="row justify-content-center w-100">
-                                    <div class="col-12 col-md-7 wrap">
-                                        <h1 class="mbr-section-title mbr-fonts-style mbr-white w-100 display-1">
-                                            Lorem Ipsum is simply dummy text </h1>
-                                    </div>
-
-                                </div>
-                            </div>
+                        
                         </div>
                     </div>
                 </div>
@@ -185,12 +147,12 @@
                 <a class="carousel-control carousel-control-prev" role="button" data-slide="prev" data-bs-slide="prev"
                     href="#sOfLSe9R3d">
 
-                    <span class="fa fa-angle-left"></span>
+                    <span class="fa fa-angle-left fa-2x custom-bg p-2"></span>
                 </a>
                 <a class="carousel-control carousel-control-next" role="button" data-slide="next" data-bs-slide="next"
                     href="#sOfLSe9R3d">
 
-                    <span class="fa fa-angle-right"></span>
+                    <span class="fa fa-angle-right fa-2x custom-bg p-2"></span>
                 </a>
             </div>
         </div>
@@ -375,44 +337,23 @@
                             <div class="img-item">
                                 <img src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/335704172_6371328342899281_13302835651268594_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEXVoBp0UuCBw61zo_y1a_pdpLzucX4p5l2kvO5xfinmXvUk0HZxf_fTYfTtw2H5Ds&_nc_ohc=53rPw_0xIt8AX_rBALT&_nc_ht=scontent.fmex1-1.fna&oh=00_AfD8mn8NF7UQkYn_WeU0j80AlyyhVWlNh_mqMHUZSYTIrw&oe=64AC7B89"
                                     class="top" alt="">
-                                <div class="item-title align-center">
-                                    <h3 class="mbr-section-title mbr-fonts-style m-0 display-7">JESSICA
-                                        ANTONY</h3>
-                                    <p class="mbr-text mbr-fonts-style m-0 display-4">
-                                        Cosmetologist</p>
-                                </div>
+                                
                             </div>
                             <div class="img-item mt-4">
                                 <img src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/350289739_267296615703772_629768962550793267_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeE751ZiqdtwzzOSDbbQG6fZ88fiLSpzewLzx-ItKnN7AiCLahjjs8ofWjEtjg6UIkM&_nc_ohc=4u6cB-1YDZcAX9mtQpY&_nc_ht=scontent.fmex1-1.fna&oh=00_AfABj3g2L9dPz3uru_lCTYo85Cuz5A1oGD7tdaOH8UzjYw&oe=64AC19B2"
                                     alt="">
-                                <div class="item-title align-center">
-                                    <h3 class="mbr-section-title mbr-fonts-style m-0 display-7">IRIS
-                                        ELLIOTT</h3>
-                                    <p class="mbr-text mbr-fonts-style m-0 display-4">
-                                        Masseur</p>
-                                </div>
+                                
                             </div>
                         </div>
                         <div class="col-12 col-md-6">
                             <div class="img-item top">
                                 <img src="https://scontent.fmex1-1.fna.fbcdn.net/v/t39.30808-6/273827457_5132320360153889_497199002294195311_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeHUtOty8XvPh-2fB7JpcDGdK8CQdrbHoyErwJB2tsejIaDdqktoGIS9JBwu-bOXOPQ&_nc_ohc=sCnEEKv3p4oAX8PZr5g&_nc_ht=scontent.fmex1-1.fna&oh=00_AfCA53TyK5lK_bB0gA6gv6xTTwS-o3i_bstrpBG54zi4Kw&oe=64AC0191"
                                     class="top-2" alt="">
-                                <div class="item-title align-center">
-                                    <h3 class="mbr-section-title mbr-fonts-style m-0 display-7">MADELEINE
-                                        GOLDEN</h3>
-                                    <p class="mbr-text mbr-fonts-style m-0 display-4">
-                                        Cosmetologist</p>
-                                </div>
+                                
                             </div>
                             <div class="img-item mt-4">
                                 <img src="https://scontent.fmex1-6.fna.fbcdn.net/v/t39.30808-6/357192163_653806930105993_8100963614462700696_n.jpg?stp=cp6_dst-jpg&_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeEvnnmj6VVbnk2BCmfbAukKUHDjOkr9Eh5QcOM6Sv0SHvjsHOTLIGvgS8WmRuoi3lo&_nc_ohc=A6JXkZ3qbCQAX8D7jQG&_nc_ht=scontent.fmex1-6.fna&oh=00_AfD-SdLXXNbYpO_EMMOwGtuUyMwwoSX-tToBUXE_Ypr5_Q&oe=64AD02F0"
-                                    alt="">
-                                <div class="item-title align-center">
-                                    <h3 class="mbr-section-title mbr-fonts-style m-0 display-7">JODY
-                                        WHITEHEAD</h3>
-                                    <p class="mbr-text mbr-fonts-style m-0 display-4">
-                                        Masseur</p>
-                                </div>
+                                    alt="">                                
                             </div>
                         </div>
                     </div>
@@ -420,11 +361,14 @@
                 <div class="col-12 col-lg-5 title d-flex align-items-center mt-4 mt-lg-0">
                     <div class="text-wrapper">
                         <h3 class="mbr-title mbr-fonts-style mb-3 display-2">
-                            EL<br> <em>EQUIPO</em><br>
+                            AGENDA<br> <em> TU SERVICIO</em><br>
                         </h3>
-                        <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="#">Learn
-                                more<span></span></a>
-                        </div>
+                        <a class="btn btn-white-outline display-4" 
+                        href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web"
+                        target="_blank"
+                        >(55) 3037-1662
+                                </a>
+                        
                     </div>
                 </div>
             </div>
@@ -440,7 +384,7 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-12 col-lg-12">
                         <div class="row">
-                            <div class="left-side col-12 col-lg">
+                        <div class="left-side col-12 col-lg">
                                 <div class="mbr-section-head align-center mb-4">
                                     <h3 class="mbr-section-title mbr-fonts-style display-2">
                                         PREGUNTAS FRECUENTES
@@ -453,7 +397,7 @@
                                             <a role="button" class="panel-title collapsed" data-toggle="collapse"
                                                 data-bs-toggle="collapse" data-core="" href="#collapse1_7"
                                                 aria-expanded="false" aria-controls="collapse1">
-                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">PREGUNTA?
+                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">¿CUÁNTO TIEMPO DURA EL SERVICIO?
                                                     <span class="fa fa-angle-down"></span>
                                                 </h6>
                                             </a>
@@ -462,9 +406,8 @@
                                             role="tabpanel" aria-labelledby="headingOne" data-parent="#accordion"
                                             data-bs-parent="#bootstrap-accordion_7">
                                             <div class="panel-body">
-                                                <p class="mbr-fonts-style panel-text p-4 pb-0 display-7">Respuesta Lorem
-                                                    ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                                    tempor incididunt ut 
+                                                <p class="mbr-fonts-style panel-text p-4 pb-0 display-7">
+                                                * 2 horas de servicio a una hora y media dependiendo el consumo y dado el número de personas.
                                                 </p>
                                             </div>
                                         </div>
@@ -474,8 +417,8 @@
                                             <a role="button" class="panel-title collapsed" data-toggle="collapse"
                                                 data-bs-toggle="collapse" data-core="" href="#collapse2_7"
                                                 aria-expanded="false" aria-controls="collapse2">
-                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">IS IT
-                                                    POSSIBLE TO YOU WITH CHILDREN?<span class="fa fa-angle-down"></span>
+                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7 text-uppercase">
+                                                ¿Quién sirve los alimentos?<span class="fa fa-angle-down"></span>
                                                 </h6>
                                             </a>
                                         </div>
@@ -484,8 +427,7 @@
                                             data-bs-parent="#bootstrap-accordion_7">
                                             <div class="panel-body">
                                                 <p class="mbr-fonts-style panel-text p-3 pb-0 display-7">
-                                                    Morbi et magna at erat pretium mattis id non odio quisque nectem por
-                                                    sapien quis sagittis commodo ipsum arcu metus sed.</p>
+                                                Nuestro personal se encarga de servir los alimentos durante el tiempo de servicio
                                             </div>
                                         </div>
                                     </div>
@@ -494,8 +436,9 @@
                                             <a role="button" class="panel-title collapsed" data-toggle="collapse"
                                                 data-bs-toggle="collapse" data-core="" href="#collapse3_7"
                                                 aria-expanded="false" aria-controls="collapse3">
-                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">IS IT
-                                                    POSSIBLE TO YOU WITH COSMETICS?<span
+                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7 text-uppercase">
+                                                    ¿Qué pasa si sobran alimentos?
+                                                    <span
                                                         class="fa fa-angle-down"></span></h6>
                                             </a>
                                         </div>
@@ -504,8 +447,7 @@
                                             data-bs-parent="#bootstrap-accordion_7">
                                             <div class="panel-body">
                                                 <p class="mbr-fonts-style panel-text p-3 pb-0 display-7">
-                                                    Morbi et magna at erat pretium mattis id non odio quisque nectem por
-                                                    sapien quis sagittis commodo ipsum arcu metus sed.</p>
+                                                Todo lo que sobra se te deja por lo que  te recomendamos tener recipientes disponibles al término de tu servicio.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -514,8 +456,9 @@
                                             <a role="button" class="panel-title collapsed" data-toggle="collapse"
                                                 data-bs-toggle="collapse" data-core="" href="#collapse4_7"
                                                 aria-expanded="false" aria-controls="collapse4">
-                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">WHAT
-                                                    CANNOT BE PREGNANT?<span class="fa fa-angle-down"></span></h6>
+                                                <h6 class="panel-title-edit mbr-fonts-style mb-0 display-7">
+                                                    ¿El servicio incluye  desechables? 
+                                                    <span class="fa fa-angle-down"></span></h6>
                                             </a>
                                         </div>
                                         <div id="collapse4_7" class="panel-collapse noScroll collapse" role="tabpanel"
@@ -523,14 +466,15 @@
                                             data-bs-parent="#bootstrap-accordion_7">
                                             <div class="panel-body">
                                                 <p class="mbr-fonts-style panel-text p-3 pb-0 display-7">
-                                                    Morbi et magna at erat pretium mattis id non odio quisque nectem por
-                                                    sapien quis sagittis commodo ipsum arcu metus sed.</p>
+                                                Si, incluye plato reutilizable, servilletas, vasos y tenedores desechables además del equipo para mantener la comida caliente (cazuela de barro y base)</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <div class="right-side col-12 col-lg item-wrapper">
+                           
+                        
+                        <div class="right-side col-12 col-lg item-wrapper">
                                 <img src="https://scontent.fmex1-4.fna.fbcdn.net/v/t39.30808-6/283486662_5400652513320671_2039566374646010784_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeFl3v3toVdESYH-EwiK4HAJo96ifmzeqt2j3qJ-bN6q3bj_NML5J2FPtjRCDJ06XYk&_nc_ohc=qN-EbteA4nMAX8Ipwg6&_nc_ht=scontent.fmex1-4.fna&oh=00_AfC_C0Ji0qvg5kRmlCW9Lps7YTLsW9HLmzanTYqkzSvbJg&oe=64AD417D"
                                     alt="">
                             </div>

@@ -886,7 +886,9 @@ form .btn {
 :focus {
     outline: none
 }
-
+.custom-bg{
+    background: #cf843d;
+}
 .mbr-overlay {
     background-color: #000;
     bottom: 0;
