@@ -82,7 +82,7 @@
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
                     <h5 class="lin mbr-fonts-style align-center display-5 text-uppercase">
-                        Cocteles Snowshots
+                        Parrilladas Snowshots
                     </h5>
                     <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
                             <span class="effectHover"></span></a>
@@ -99,59 +99,27 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-3">
                         <div class="item-img" data-toggle="modal" data-bs-toggle="modal" data-target="#-modal" data-bs-target="#-modal">
-                            <img src="imgs/21.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/56.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img" data-toggle="modal" data-bs-toggle="modal" data-target="#-modal" data-bs-target="#-modal">
-                            <img src="imgs/22.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/58.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img" data-toggle="modal" data-bs-toggle="modal" data-target="#-modal" data-bs-target="#-modal">
-                            <img src="imgs/23.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/57.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img" data-toggle="modal" data-bs-toggle="modal" data-target="#-modal" data-bs-target="#-modal">
-                            <img src="imgs/24.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/59.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="modal mbr-slider" tabindex="-1" role="dialog" aria-hidden="true" id="-modal">
-                <div class="modal-dialog" role="document">
-                    <div class="modal-content">
-                        <div class="modal-body d-flex align-center">
-                            <div class="carousel slide" id="lb-" data-interval="NaN" data-bs-interval="NaN">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <img class="d-block" src="imgs/21.jpg" alt="">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img class="d-block" src="imgs/22.jpg" alt="">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img class="d-block" src="imgs/23.jpg" alt="">
-                                    </div>
-                                    <div class="carousel-item">
-                                        <img class="d-block" src="imgs/24.jpg" alt="">
-                                    </div>
-
-
-                                </div>
-                                <a role="button" href="" class="close" data-dismiss="modal" data-bs-dismiss="modal" aria-label="Close">
-                                </a>
-                                <a class="carousel-control-prev carousel-control" role="button" data-slide="prev" data-bs-slide="prev" href="#lb-">
-                                    <span class="fa fa-angle-left"></span>
-                                </a>
-                                <a class="carousel-control-next carousel-control" role="button" data-slide="next" data-bs-slide="next" href="#lb-">
-                                    <span class="fa fa-angle-right"></span>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                          
             </div>
         </div>
     </section>
@@ -179,18 +147,18 @@
             <div class="row padding">
                 <div class="col-12 col-lg-6 mt-5 mb-5">
                     <div>
-                        <img src="imgs/49.jpg" alt="">
+                        <img src="imgs/60.jpg" alt="">
                     </div>
                     <div>
-                        <img src="imgs/51.jpg" alt="">
+                        <img src="imgs/61.jpg" alt="">
                     </div>
                 </div>
                 <div class="col-12 col-lg-6 mt-5 mb-5">
                     <div>
-                        <img src="imgs/25.jpg" alt="">
+                        <img src="imgs/62.jpg" alt="">
                     </div>
                     <div>
-                        <img src="imgs/50.jpg" alt="">
+                        <img src="imgs/63.jpg" alt="">
                     </div>
                 </div>
 
@@ -299,7 +267,7 @@
                                 </div>
                             </div>
                             <div class="right-side col-12 col-lg item-wrapper">
-                                <img src="imgs/26.jpg" alt="">
+                                <img src="imgs/65.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -316,42 +284,42 @@
                 <div class="row justify-content-center">
                     <div class="col-12 col-md-3">
                         <div class="item-img">
-                            <img src="imgs/27.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/64.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img">
-                            <img src="imgs/28.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/68.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img">
-                            <img src="imgs/29.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/69.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 top">
                         <div class="item-img">
-                            <img src="imgs/30.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/67.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 mt-4">
                         <div class="item-img">
-                            <img src="imgs/31.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/70.jpg" alt="" data-slide-to="0" data-bs-slide-to="0" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 mt-4 top">
                         <div class="item-img">
-                            <img src="imgs/32.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/71.jpg" alt="" data-slide-to="1" data-bs-slide-to="1" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 mt-4 top">
                         <div class="item-img">
-                            <img src="imgs/33.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/72.jpg" alt="" data-slide-to="2" data-bs-slide-to="2" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
                     <div class="col-12 col-md-3 mt-4 top">
                         <div class="item-img">
-                            <img src="imgs/34.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
+                            <img src="imgs/66.jpg" alt="" data-slide-to="3" data-bs-slide-to="3" data-target="#lb-" data-bs-target="#lb-">
                         </div>
                     </div>
 
