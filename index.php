@@ -155,9 +155,9 @@
                                 <img src="imgs/8.jpg" alt="" data-slide-to="4" data-bs-slide-to="4">
                             </div>
                             <div class="text-wrapper">
-                                <h3 class="mbr-title mbr-fonts-style mb-2 display-5 text-uppercase">taquizas</h3>
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="taquizas.php">Ver
-                                        Más<span class="effectHover"></span></a>
+                                
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="taquizas.php">Taquisas
+                                    <span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -165,11 +165,11 @@
                     <div class="col-12 col-lg item features-image">
                         <div class="item-wrapper align-center">
                             <div class="item-img">
-                                <img src="imgs/3.jpg" alt="" data-slide-to="0" data-bs-slide-to="0">
+                                <img src="imgs/54.jpg" alt="" data-slide-to="0" data-bs-slide-to="0">
                             </div>
                             <div class="text-wrapper">
-                                <h3 class="mbr-title mbr-fonts-style mb-2 display-5">Parrilladas</h3>
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="#">Más detalles<span class="effectHover"></span></a>
+                                
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="parrilladas.php">Parrilladas<span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -180,10 +180,9 @@
                                 <img src="imgs/7.jpg" alt="" data-slide-to="1" data-bs-slide-to="1">
                             </div>
                             <div class="text-wrapper">
-                                <h3 class="mbr-title mbr-fonts-style mb-2 display-5 text-uppercase">Mesa de cocteles
-                                </h3>
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="cocteles.php">Ver
-                                        más<span class="effectHover"></span></a>
+                                
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="cocteles.php">
+                                Mesa de cocteles<span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -455,7 +454,15 @@
 
 
 
-
+<style>
+    .ver_mas{
+        background: black!important;
+    }
+    .resaltante{
+        background: blue;
+        text-decoration: uppercase!important;
+    }
+</style>
 </body>
 
 </html>
