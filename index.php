@@ -32,13 +32,15 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
-    <?php require_once "pixel.php";?>
+    <?php require_once "pixel.php"; ?>
 </head>
 
 <body>
 
 
-    <section data-bs-version="5.1" class="menu menu2 cid-sMzMR0CkOY" once="menu" id="menu2-0">
+    <?php require_once "menu.php"?>
+
+    <section data-bs-version="5.1" class="menu menu2 cid-sMzMR0CkOY d-none d-md-block" once="menu" id="menu2-0">
         <nav class="navbar navbar-dropdown navbar-fixed-top navbar-expand-lg">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <div class="brand-container">
@@ -46,13 +48,30 @@
                         <span class="navbar-caption-wrap">
                             <a class="navbar-caption text-white text-primary display-2" href="index.php#top">SNOWSHOTS</a>
                         </span>
-                        <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+
+                        <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
                                 <span class="effectHover"></span></a>
                         </div>
+                        <div class="mbr-section-btn">
+                            <a class="btn btn-white-outline display-4" href="taquizas.php">
+                                Taquizas
+                                <span class="effectHover"></span></a>
+                        </div>
+                        <div class="mbr-section-btn">
+                            <a class="btn btn-white-outline display-4" href="parrilladas.php">
+                                Parrilladas
+                                <span class="effectHover"></span></a>
+                        </div>
+                        <div class="mbr-section-btn">
+                            <a class="btn btn-white-outline display-4" href="cocteles.php">
+                                Cócteles
+                                <span class="effectHover"></span></a>
+                        </div>
+
+
                     </div>
                 </div>
             </div>
-
         </nav>
     </section>
 
@@ -107,9 +126,6 @@
 
         <div class="container-fluid">
             <div class="wrapper">
-                <div class="col-12">
-
-                </div>
                 <div class="row justify-content-center">
                     <div class="col-12 col-lg item features-image active">
                         <div class="item-wrapper align-center">
@@ -117,9 +133,9 @@
                                 <img src="imgs/8.jpg" alt="" data-slide-to="4" data-bs-slide-to="4">
                             </div>
                             <div class="text-wrapper">
-                                
-                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="taquizas.php">Taquisas
-                                    <span class="effectHover"></span></a>
+
+                                <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="taquizas.php">Taquizas
+                                        <span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -130,7 +146,7 @@
                                 <img src="imgs/54.jpg" alt="" data-slide-to="0" data-bs-slide-to="0">
                             </div>
                             <div class="text-wrapper">
-                                
+
                                 <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="parrilladas.php">Parrilladas<span class="effectHover"></span></a>
                                 </div>
                             </div>
@@ -142,9 +158,9 @@
                                 <img src="imgs/7.jpg" alt="" data-slide-to="1" data-bs-slide-to="1">
                             </div>
                             <div class="text-wrapper">
-                                
+
                                 <div class="mbr-section-btn"><a class="btn btn-white-outline display-4 ver_mas" href="cocteles.php">
-                                Mesa de cocteles<span class="effectHover"></span></a>
+                                        Mesa de cocteles<span class="effectHover"></span></a>
                                 </div>
                             </div>
                         </div>
@@ -162,9 +178,9 @@
                     <div class="iconfont-wrapper">
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
-                    <h5 class="lin mbr-fonts-style align-center display-5">
+                    <h5 class="lin mbr-fonts-style align-center display-3">
                         Servicio de comida y coctelería para tu evento
-                        contamos con paquetes que se adapten mejor a tus necesidades, 
+                        contamos con paquetes que se adapten mejor a tus necesidades,
                         taquizas desde 30 personas hasta 500 personas.
                     </h5>
                 </div>
@@ -264,7 +280,7 @@
                         <h3 class="mbr-title mbr-fonts-style mb-3 display-2">
                             AGENDA<br> <em> TU SERVICIO</em><br>
                         </h3>
-                        <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+                        <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
                         </a>
 
                     </div>
@@ -416,15 +432,16 @@
 
 
 
-<style>
-    .ver_mas{
-        background: black!important;
-    }
-    .resaltante{
-        background: blue;
-        text-decoration: uppercase!important;
-    }
-</style>
+    <style>
+        .ver_mas {
+            background: black !important;
+        }
+
+        .resaltante {
+            background: blue;
+            text-decoration: uppercase !important;
+        }
+    </style>
 </body>
 
 </html>
