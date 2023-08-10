@@ -45,9 +45,10 @@
                     <h5 class="lin mbr-fonts-style align-center display-5 text-uppercase">
                         Parrilladas Snowshots
                     </h5>
-                    <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+                    <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
                             <span class="effectHover"></span></a>
                     </div>
+                    <?php require_once "sub_menu.php"?>
 
                 </div>
             </div>
@@ -92,7 +93,7 @@
                     <div class="iconfont-wrapper">
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
-                    <h5 class="lin mbr-fonts-style align-center display-5">
+                    <h5 class="lin mbr-fonts-style align-center display-3">
                         Contamos con paquetes que se adaptan mejor a tus necesidades,
                         taquizas desde 30 personas hasta 500 personas.
                     </h5>
@@ -215,13 +216,11 @@
                                         <div class="mt-5">
 
                                             <div class="mbr-section-btn align-center">
-                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
                                                     <span class="effectHover"></span>
                                                 </a>
                                             </div>
-                                            <div class="lin mbr-fonts-style align-center  text-uppercase">
-                                                Aparta tu fecha!
-                                            </div>
+                                            
 
                                         </div>
                                     </div>

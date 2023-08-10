@@ -129,7 +129,7 @@
                     <div class="iconfont-wrapper">
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
-                    <h5 class="lin mbr-fonts-style align-center display-5">                        
+                    <h5 class="lin mbr-fonts-style align-center display-3">                        
                         Contamos con paquetes que se adaptan mejor a tus necesidades, 
                         taquizas desde 30 personas hasta 500 personas.
                     </h5>

@@ -32,47 +32,8 @@
     <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
 
     <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
-
-     <!-- Meta Pixel Code Piñatas-->
-     <script>
-        ! function(f, b, e, v, n, t, s) {
-            if (f.fbq) return;
-            n = f.fbq = function() {
-                n.callMethod ?
-                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-            };
-            if (!f._fbq) f._fbq = n;
-            n.push = n;
-            n.loaded = !0;
-            n.version = '2.0';
-            n.queue = [];
-            t = b.createElement(e);
-            t.async = !0;
-            t.src = v;
-            s = b.getElementsByTagName(e)[0];
-            s.parentNode.insertBefore(t, s)
-        }(window, document, 'script',
-            'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '192996083728690');
-        fbq('track', 'PageView');
-    </script>
-    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=192996083728690&ev=PageView&noscript=1" /></noscript>
-    <!-- End Meta Pixel Code -->
     
-
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DWKGKK30KK"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-
-        function gtag() {
-            dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-
-        gtag('config', 'G-DWKGKK30KK');
-    </script>
-
+    <?php require_once "pixel.php";?>
 </head>
 
 <body>
@@ -84,11 +45,15 @@
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
                     <h5 class="lin mbr-fonts-style align-center display-5 text-uppercase">
-                        Cocteles Snowshots
+                        Cócteles Snowshots
                     </h5>
-                    <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+                    
+                    <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" 
+                    href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" 
+                    target="_blank">Cotiza tu servicio
                             <span class="effectHover"></span></a>
                     </div>
+                    <?php require_once "sub_menu.php"?>
 
                 </div>
             </div>
@@ -165,7 +130,7 @@
                     <div class="iconfont-wrapper">
                         <span class="fa fa-2x fa-circle-o"></span>
                     </div>
-                    <h5 class="lin mbr-fonts-style align-center display-5">
+                    <h5 class="lin mbr-fonts-style align-center display-3">
                         Contamos con paquetes que se adaptan mejor a tus necesidades,
                         taquizas desde 30 personas hasta 500 personas.
                     </h5>
@@ -288,14 +253,10 @@
                                         <div class="mt-5">
 
                                             <div class="mbr-section-btn align-center">
-                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">(55) 3037-1662
+                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
                                                     <span class="effectHover"></span>
                                                 </a>
-                                            </div>
-                                            <div class="lin mbr-fonts-style align-center  text-uppercase">
-                                                Aparta tu fecha!
-                                            </div>
-
+                                            </div>                                            
                                         </div>
                                     </div>
                                 </div>
