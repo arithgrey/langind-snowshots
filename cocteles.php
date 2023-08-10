@@ -49,7 +49,7 @@
                     </h5>
                     
                     <div class="mbr-section-btn"><a class="btn btn-white-outline display-4" 
-                    href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" 
+                    href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web%20https://snowshots.com.mx/" 
                     target="_blank">Cotiza tu servicio
                             <span class="effectHover"></span></a>
                     </div>
@@ -253,7 +253,7 @@
                                         <div class="mt-5">
 
                                             <div class="mbr-section-btn align-center">
-                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web" target="_blank">Cotiza tu servicio
+                                                <a class="btn btn-white-outline display-4" href="https://api.whatsapp.com/send?phone=+5215530371662&text=Hola!%20Me%20puedes%20ayudar,%20vi%20esto%20desde%20su%20p%C3%A1gina%20web%20https://snowshots.com.mx/" target="_blank">Cotiza tu servicio
                                                     <span class="effectHover"></span>
                                                 </a>
                                             </div>                                            
